@@ -12,7 +12,14 @@
       <link>/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posts/first/</guid>
-      <description>&lt;h1 id=&#34;first-test&#34;&gt;First test&lt;/h1&gt;&#xA;&lt;p&gt;First test&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;first-post&#34;&gt;First post&lt;/h1&gt;&#xA;&lt;p&gt;this is a preview of what the post would look like&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/second/</guid>
+      <description>&lt;h1 id=&#34;second-post&#34;&gt;Second post&lt;/h1&gt;&#xA;&lt;p&gt;this is a preview of what the post would look like&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
